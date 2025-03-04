@@ -1,0 +1,7 @@
+replicaCount: 2
+container:
+  image: nginx
+  tag: latest
+
+
+  
